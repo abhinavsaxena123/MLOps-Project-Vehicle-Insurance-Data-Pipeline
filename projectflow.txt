@@ -1,10 +1,3 @@
-MongoDB Atlas Credentials: 
-Username: saxenaabhinav113
-Password: KKbAn0E0SH5WXVnn
-
-Connection String:
-mongodb+srv://saxenaabhinav113:<db_password>@cluster0.pxfkcwz.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
-
 
 
 1. Create project template by executing template.py file
